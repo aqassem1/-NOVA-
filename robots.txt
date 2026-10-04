@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aqassem1.github.io/-NOVA-/sitemap.xml
